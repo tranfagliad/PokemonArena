@@ -1,0 +1,2 @@
+112:BytesInHeader
+56:BytesPerLine
